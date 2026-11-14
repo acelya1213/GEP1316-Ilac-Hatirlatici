@@ -66,7 +66,9 @@ Projenin geliştirilmesinde OpenAI ChatGPT aracından kod oluşturma, algoritma 
 
 ## 8. Ekran Görüntüleri
 
-Programın çalıştırılması, menü ekranı ve örnek çıktıların ekran görüntüleri bu bölüme eklenecektir.
+![Program Ekran Görüntüsü 1](Ekran%20Resmi%202026-11-14%2012.04.02.png)
+
+![Program Ekran Görüntüsü 2](Ekran%20Resmi%202026-11-14%2012.12.16.png)
 
 ## 9. Sonuç
 
